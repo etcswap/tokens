@@ -1,0 +1,36 @@
+{
+    "name": "Ethereum Classic",
+    "timestamp": "2023-12-28T00:00:00.000Z",
+    "version": {
+      "major": 0,
+      "minor": 1,
+      "patch": 0
+    },
+    "tags": {},
+    "logoURI": "ipfs://Qme7PT7gidTzRuf3T2JdxQ64JeZPgFH7yNBB8mYoMPbpTe",
+    "keywords": [
+      "ethereum classic",
+      "mordor testnet"
+    ],
+    "tokens": [
+      {
+        "chainId": 61,
+        "name": "Wrapped Ether",
+        "address": "0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a",
+        "name": "Wrapped Ether",
+        "symbol": "WETC",
+        "decimals": 18,
+        "logoURI": "ipfs://QmawMDPsaj3kBTZErCYQ3tshv5RrMAN3smWNs72m943Fyj"
+      },
+      {
+        "chainId": 63,
+        "name": "Wrapped Ether",
+        "address": "0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a",
+        "name": "Wrapped Ether",
+        "symbol": "WETC",
+        "decimals": 18,
+        "logoURI": "ipfs://QmawMDPsaj3kBTZErCYQ3tshv5RrMAN3smWNs72m943Fyj"
+      }
+    ]
+  }
+  
