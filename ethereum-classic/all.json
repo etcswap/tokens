@@ -41,7 +41,7 @@
         "chainId": 63,
         "address": "0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a",
         "name": "Wrapped Ether",
-        "symbol": "WETC",
+        "symbol": "wETC",
         "decimals": 18,
         "logoURI": "ipfs://QmawMDPsaj3kBTZErCYQ3tshv5RrMAN3smWNs72m943Fyj"
       }
