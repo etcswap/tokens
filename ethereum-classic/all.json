@@ -3,7 +3,7 @@
     "timestamp": "2023-12-28T00:00:00.000Z",
     "version": {
       "major": 0,
-      "minor": 2,
+      "minor": 3,
       "patch": 0
     },
     "tags": {},
@@ -19,7 +19,7 @@
         "name": "Wrapped Ether",
         "symbol": "WETC",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/chains/61/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/61/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a/logo.png"
       },
       {
         "chainId": 63,
@@ -27,7 +27,7 @@
         "name": "Ecosystem Reward",
         "symbol": "ECO",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5ab686aE6E69a7E40493fDF792540a28d8721d37/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/63/0x5ab686aE6E69a7E40493fDF792540a28d8721d37/logo.png"
       },
       {
         "chainId": 63,
@@ -35,7 +35,7 @@
         "name": "USDC",
         "symbol": "USDC",
         "decimals": 6,
-        "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/chains/63/0xD333787e69DbfC47E67C59441e392Eb530b3DC19/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/63/0xD333787e69DbfC47E67C59441e392Eb530b3DC19/logo.png"
       },
       {
         "chainId": 63,
@@ -43,7 +43,7 @@
         "name": "Tether",
         "symbol": "USDT",
         "decimals": 6,
-        "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/chains/63/0xfC95e5e3f912823eE531687E2Df137940ef3BA2c/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/63/0xfC95e5e3f912823eE531687E2Df137940ef3BA2c/logo.png"
       },
       {
         "chainId": 63,
@@ -51,7 +51,7 @@
         "name": "Wrapped Bitcoin",
         "symbol": "WBTC",
         "decimals": 8,
-        "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/chains/63/0xbe147F327704d4F62dCA47172261585D7b12eEEC/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/63/0xbe147F327704d4F62dCA47172261585D7b12eEEC/logo.png"
       },
       {
         "chainId": 63,
@@ -59,7 +59,7 @@
         "name": "Wrapped Ether",
         "symbol": "WETC",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/chains/63/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/63/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a/logo.png"
       }
     ]
   }
