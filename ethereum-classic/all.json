@@ -17,33 +17,49 @@
         "chainId": 61,
         "address": "0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a",
         "name": "Wrapped Ether",
-        "symbol": "wETC",
+        "symbol": "WETC",
         "decimals": 18,
-        "logoURI": "ipfs://QmawMDPsaj3kBTZErCYQ3tshv5RrMAN3smWNs72m943Fyj"
+        "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/chains/61/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a/logo.png"
       },
       {
         "chainId": 63,
-        "address": "0x68C7cC1d017C0196b7f2BfF9eD84BA3C9d7236CE",
-        "name": "Mock BTC",
-        "symbol": "mBTC",
+        "address": "0x5ab686aE6E69a7E40493fDF792540a28d8721d37",
+        "name": "Ecosystem Reward",
+        "symbol": "ECO",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5ab686aE6E69a7E40493fDF792540a28d8721d37/logo.png"
       },
       {
         "chainId": 63,
-        "address": "0xB84324d0cd359596932059a66AA3E650AD76F065",
-        "name": "Mock USD",
-        "symbol": "mUSD",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+        "address": "0xD333787e69DbfC47E67C59441e392Eb530b3DC19",
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/chains/63/0xD333787e69DbfC47E67C59441e392Eb530b3DC19/logo.png"
+      },
+      {
+        "chainId": 63,
+        "address": "0xfC95e5e3f912823eE531687E2Df137940ef3BA2c",
+        "name": "Tether",
+        "symbol": "USDT",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/chains/63/0xfC95e5e3f912823eE531687E2Df137940ef3BA2c/logo.png"
+      },
+      {
+        "chainId": 63,
+        "address": "0xbe147F327704d4F62dCA47172261585D7b12eEEC",
+        "name": "Wrapped Bitcoin",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/chains/63/0xbe147F327704d4F62dCA47172261585D7b12eEEC/logo.png"
       },
       {
         "chainId": 63,
         "address": "0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a",
         "name": "Wrapped Ether",
-        "symbol": "wETC",
+        "symbol": "WETC",
         "decimals": 18,
-        "logoURI": "ipfs://QmawMDPsaj3kBTZErCYQ3tshv5RrMAN3smWNs72m943Fyj"
+        "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/chains/63/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a/logo.png"
       }
     ]
   }
