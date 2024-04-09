@@ -3,7 +3,7 @@
     "timestamp": "2024-04-09T00:00:00.000Z",
     "version": {
       "major": 0,
-      "minor": 4,
+      "minor": 5,
       "patch": 0
     },
     "tags": {},
@@ -24,8 +24,8 @@
       {
         "chainId": 61,
         "address": "0xeCc63359BA28EaDE0349C7270AB0dB34Bf8357B9",
-        "name": "Stablecoin Test Token",
-        "symbol": "SBC",
+        "name": "Gas Test",
+        "symbol": "GAS",
         "decimals": 6,
         "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/chains/61/0xeCc63359BA28EaDE0349C7270AB0dB34Bf8357B9/logo.png"
       },
