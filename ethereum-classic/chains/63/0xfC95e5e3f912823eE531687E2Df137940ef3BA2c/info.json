@@ -4,5 +4,5 @@
     "name": "Tether",
     "symbol": "USDT",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/chains/63/0xfC95e5e3f912823eE531687E2Df137940ef3BA2c/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/63/0xfC95e5e3f912823eE531687E2Df137940ef3BA2c/logo.png"
 }

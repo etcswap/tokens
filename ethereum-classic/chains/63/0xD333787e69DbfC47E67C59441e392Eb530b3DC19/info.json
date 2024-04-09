@@ -4,5 +4,5 @@
     "name": "USDC",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/chains/63/0xD333787e69DbfC47E67C59441e392Eb530b3DC19/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/63/0xD333787e69DbfC47E67C59441e392Eb530b3DC19/logo.png"
 }

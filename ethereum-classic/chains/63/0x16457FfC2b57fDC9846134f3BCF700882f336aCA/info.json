@@ -1,0 +1,8 @@
+{
+    "chainId": 63,
+    "address": "0x16457FfC2b57fDC9846134f3BCF700882f336aCA",
+    "name": "Gas",
+    "symbol": "GAS",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/61/0x16457FfC2b57fDC9846134f3BCF700882f336aCA/logo.png"
+}

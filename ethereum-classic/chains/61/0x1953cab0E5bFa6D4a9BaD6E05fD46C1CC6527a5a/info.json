@@ -4,5 +4,5 @@
     "name": "Wrapped Ether",
     "symbol": "WETC",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/chains/61/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/61/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a/logo.png"
 }

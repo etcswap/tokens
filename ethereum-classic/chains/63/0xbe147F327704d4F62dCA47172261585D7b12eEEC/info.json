@@ -4,5 +4,5 @@
     "name": "Wrapped Bitcoin",
     "symbol": "WBTC",
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/chains/63/0xbe147F327704d4F62dCA47172261585D7b12eEEC/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/63/0xbe147F327704d4F62dCA47172261585D7b12eEEC/logo.png"
 }

@@ -3,7 +3,7 @@
     "timestamp": "2024-04-09T00:00:00.000Z",
     "version": {
       "major": 0,
-      "minor": 5,
+      "minor": 6,
       "patch": 0
     },
     "tags": {},
@@ -24,10 +24,26 @@
       {
         "chainId": 61,
         "address": "0xeCc63359BA28EaDE0349C7270AB0dB34Bf8357B9",
-        "name": "Gas Test",
+        "name": "Gas",
         "symbol": "GAS",
         "decimals": 6,
-        "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/chains/61/0xeCc63359BA28EaDE0349C7270AB0dB34Bf8357B9/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/61/0xeCc63359BA28EaDE0349C7270AB0dB34Bf8357B9/logo.png"
+      },
+      {
+        "chainId": 61,
+        "address": "0xfdcC3dd6671eaB0709A4C0f3F53De9a333d80798",
+        "name": "Stable Coin",
+        "symbol": "SBC",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/61/0xfdcC3dd6671eaB0709A4C0f3F53De9a333d80798/logo.png"
+      },
+      {
+        "chainId": 63,
+        "address": "0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a",
+        "name": "Wrapped Ether",
+        "symbol": "WETC",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/63/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a/logo.png"
       },
       {
         "chainId": 63,
@@ -36,6 +52,14 @@
         "symbol": "ECO",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/63/0x5ab686aE6E69a7E40493fDF792540a28d8721d37/logo.png"
+      },
+      {
+        "chainId": 63,
+        "address": "0x16457FfC2b57fDC9846134f3BCF700882f336aCA",
+        "name": "Gas",
+        "symbol": "GAS",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/61/0x16457FfC2b57fDC9846134f3BCF700882f336aCA/logo.png"
       },
       {
         "chainId": 63,
@@ -60,14 +84,6 @@
         "symbol": "WBTC",
         "decimals": 8,
         "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/63/0xbe147F327704d4F62dCA47172261585D7b12eEEC/logo.png"
-      },
-      {
-        "chainId": 63,
-        "address": "0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a",
-        "name": "Wrapped Ether",
-        "symbol": "WETC",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/63/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a/logo.png"
       }
     ]
   }
