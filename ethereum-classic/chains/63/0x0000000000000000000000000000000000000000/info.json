@@ -1,8 +1,0 @@
-{
-    "chainId": 63,
-    "address": "0x0000000000000000000000000000000000000000",
-    "name": "Classic USD",
-    "symbol": "USC",
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/63/0x0000000000000000000000000000000000000000/logo.png"
-}

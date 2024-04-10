@@ -47,6 +47,14 @@
       },
       {
         "chainId": 63,
+        "address": "0xDE093684c796204224BC081f937aa059D903c52a",
+        "name": "Classic USD",
+        "symbol": "USC",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/63/0xDE093684c796204224BC081f937aa059D903c52a/logo.png"
+      },
+      {
+        "chainId": 63,
         "address": "0x5ab686aE6E69a7E40493fDF792540a28d8721d37",
         "name": "Ecosystem Reward",
         "symbol": "ECO",
