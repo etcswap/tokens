@@ -1,0 +1,8 @@
+{
+    "chainId": 61,
+    "address": "0x6c3B413C461c42a88160Ed1B1B31d6f7b02a1C83",
+    "name": "ETCPOW by ETCMC",
+    "symbol": "ETCPOW",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/61/0x6c3B413C461c42a88160Ed1B1B31d6f7b02a1C83/logo.png"
+}
