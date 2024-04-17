@@ -1,9 +1,9 @@
 {
     "name": "Ethereum Classic",
-    "timestamp": "2024-04-12T00:00:00.000Z",
+    "timestamp": "2024-04-17T00:00:00.000Z",
     "version": {
       "major": 0,
-      "minor": 9,
+      "minor": 10,
       "patch": 0
     },
     "tags": {},
@@ -20,62 +20,6 @@
         "symbol": "WETC",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/61/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a/logo.png"
-      },
-      {
-        "chainId": 61,
-        "address": "0x271dc2DF1390a7b319CAE1711A454fa416D6A309",
-        "name": "BOB by TMWSTW",
-        "symbol": "BOB",
-        "decimals": 0,
-        "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/61/0x271dc2DF1390a7b319CAE1711A454fa416D6A309/logo.png"
-      },
-      {
-        "chainId": 61,
-        "address": "0xfc84c3Dc9898E186aD4b85734100e951E3bcb68c",
-        "name": "ClassicDAO",
-        "symbol": "CLD",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/61/0xfc84c3Dc9898E186aD4b85734100e951E3bcb68c/logo.png"
-      },
-      {
-        "chainId": 61,
-        "address": "0x6c3B413C461c42a88160Ed1B1B31d6f7b02a1C83",
-        "name": "ETCPOW by ETCMC",
-        "symbol": "ETCPOW",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/61/0x6c3B413C461c42a88160Ed1B1B31d6f7b02a1C83/logo.png"
-      },
-      {
-        "chainId": 61,
-        "address": "0x152BAEFdc3b7E60985addF66FaB95e01089ba958",
-        "name": "GREASE by TMWSTW",
-        "symbol": "GREASE",
-        "decimals": 0,
-        "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/61/0x152BAEFdc3b7E60985addF66FaB95e01089ba958/logo.png"
-      },
-      {
-        "chainId": 61,
-        "address": "0x19b4343d272DA48779aB7A9a7436F95F63249871",
-        "name": "INK by TMWSTW",
-        "symbol": "INK",
-        "decimals": 0,
-        "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/61/0x19b4343d272DA48779aB7A9a7436F95F63249871/logo.png"
-      },
-      {
-        "chainId": 61,
-        "address": "0xa1Ccb330165cda264f35De7630De084e83d39134",
-        "name": "SLAG by TMWSTW",
-        "symbol": "SLAG",
-        "decimals": 0,
-        "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/61/0xa1Ccb330165cda264f35De7630De084e83d39134/logo.png"
-      },
-      {
-        "chainId": 61,
-        "address": "0xbf72BfEFA79957Fa944431f25e73a6aAEBC81798",
-        "name": "TMWSTW Profits",
-        "symbol": "TMWSTW",
-        "decimals": 0,
-        "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/61/0xbf72BfEFA79957Fa944431f25e73a6aAEBC81798/logo.png"
       },
       {
         "chainId": 61,
@@ -100,22 +44,6 @@
         "symbol": "USC",
         "decimals": 6,
         "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/63/0xDE093684c796204224BC081f937aa059D903c52a/logo.png"
-      },
-      {
-        "chainId": 63,
-        "address": "0x5ab686aE6E69a7E40493fDF792540a28d8721d37",
-        "name": "Ecosystem Reward",
-        "symbol": "ECO",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/63/0x5ab686aE6E69a7E40493fDF792540a28d8721d37/logo.png"
-      },
-      {
-        "chainId": 63,
-        "address": "0x16457FfC2b57fDC9846134f3BCF700882f336aCA",
-        "name": "Gas",
-        "symbol": "GAS",
-        "decimals": 6,
-        "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/63/0x16457FfC2b57fDC9846134f3BCF700882f336aCA/logo.png"
       },
       {
         "chainId": 63,
