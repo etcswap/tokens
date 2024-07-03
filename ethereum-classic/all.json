@@ -1,14 +1,15 @@
 {
-    "name": "Ethereum Classic",
-    "timestamp": "2024-04-17T00:00:00.000Z",
+    "name": "ETCswap V3",
+    "timestamp": "2024-07-03T00:00:00.000Z",
     "version": {
       "major": 0,
-      "minor": 10,
+      "minor": 11,
       "patch": 0
     },
     "tags": {},
     "logoURI": "ipfs://Qme7PT7gidTzRuf3T2JdxQ64JeZPgFH7yNBB8mYoMPbpTe",
     "keywords": [
+      "etcswap",
       "ethereum classic",
       "mordor testnet"
     ],
