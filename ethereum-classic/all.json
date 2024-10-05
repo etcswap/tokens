@@ -1,9 +1,9 @@
 {
     "name": "ETCswap V3",
-    "timestamp": "2024-07-03T00:00:00.000Z",
+    "timestamp": "2024-10-05T00:00:00.000Z",
     "version": {
       "major": 0,
-      "minor": 11,
+      "minor": 12,
       "patch": 0
     },
     "tags": {},
@@ -29,6 +29,14 @@
         "symbol": "USC",
         "decimals": 6,
         "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/61/0xDE093684c796204224BC081f937aa059D903c52a/logo.png"
+      },
+      {
+        "chainId": 61,
+        "address": "0xc0364FB5498c17088A5B1d98F6FB3dB2Df9866a9",
+        "name": "Eco",
+        "symbol": "ECO",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/61/0xc0364FB5498c17088A5B1d98F6FB3dB2Df9866a9/logo.png"
       },
       {
         "chainId": 63,
