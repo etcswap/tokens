@@ -1,8 +1,0 @@
-{
-    "chainId": 61,
-    "address": "0x5E8aC4437bcE74f5D15A2D5e498211fCECd6b5c9",
-    "name": "NerveNetwork Token",
-    "symbol": "NVT",
-    "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/61/0x5E8aC4437bcE74f5D15A2D5e498211fCECd6b5c9/logo.png"
-}

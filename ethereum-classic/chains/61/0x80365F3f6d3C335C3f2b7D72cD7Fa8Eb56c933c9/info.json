@@ -1,0 +1,8 @@
+{
+    "chainId": 61,
+    "address": "0x80365F3f6d3C335C3f2b7D72cD7Fa8Eb56c933c9",
+    "name": "2015 Relic: bitcoin",
+    "symbol": "BTCC",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/61/0x80365F3f6d3C335C3f2b7D72cD7Fa8Eb56c933c9/logo.png"
+}

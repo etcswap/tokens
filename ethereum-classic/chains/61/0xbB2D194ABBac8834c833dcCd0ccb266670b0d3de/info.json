@@ -1,7 +1,7 @@
 {
     "chainId": 61,
     "address": "0xbB2D194ABBac8834c833dcCd0ccb266670b0d3de",
-    "name": "Wrapped AyeAyeCoin Classic",
+    "name": "2015 Relic: AyeAyeCoin",
     "symbol": "WAACC",
     "decimals": 0,
     "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/chains/61/0xbB2D194ABBac8834c833dcCd0ccb266670b0d3de/logo.png"
