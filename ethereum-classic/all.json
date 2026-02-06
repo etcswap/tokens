@@ -1,15 +1,15 @@
 {
-  "name": "ETCswap V3",
-  "timestamp": "2025-06-07T00:00:00.000Z",
+  "name": "ETCswap",
+  "timestamp": "2026-02-06T00:00:00.000Z",
   "version": {
     "major": 0,
-    "minor": 14,
+    "minor": 15,
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://raw.githubusercontent.com/etcswap/token-list/main/assets/ethereum-classic.svg",
+  "logoURI": "https://raw.githubusercontent.com/etcswap/tokens/main/ethereum-classic/logos/ethereum-classic-etc-logo.svg",
   "keywords": [
-    "etcswap v3",
+    "etcswap",
     "ethereum classic",
     "mordor testnet"
   ],
